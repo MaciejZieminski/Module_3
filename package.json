@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "npm": "^9.4.2"
+  },
+  "name": "module_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "html-validate": "^7.13.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

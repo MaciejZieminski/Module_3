@@ -1,0 +1,14 @@
+npm install --save-dev html-validate
+
+npm exec html-validate index.html
+
+\Module_3\Module_3\index.html
+  13:20  error  Trailing whitespace  no-trailing-whitespace
+  19:20  error  Trailing whitespace  no-trailing-whitespace
+  25:20  error  Trailing whitespace  no-trailing-whitespace
+  47:61  error  Trailing whitespace  no-trailing-whitespace
+
+✖ 4 problems (4 errors, 0 warnings)
+
+More information:
+  https://html-validate.org/rules/no-trailing-whitespace.html
